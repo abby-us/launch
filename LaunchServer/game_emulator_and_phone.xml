@@ -2,12 +2,6 @@
 <Game>
     <PoisonedIPs/>
     <Emulators/>
-    <MultiAccountors>
-        <MultiAccountor Name="com.lbe.parallel.intl"/>
-    </MultiAccountors>
-    <SpoofApps>
-        <SpoofApp Name="com.lexa.fakegps"/>
-    </SpoofApps>
     <Users>
         <User Name="Adam Min">
             <IMEI>14BDCD6FD64180AF5E7791DF91B6AF8E9A3E7BC844997EB8C29252706DF97CA5</IMEI>
